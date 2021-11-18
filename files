@@ -1,0 +1,3 @@
+cavitatingGasReleaseFoam.C
+
+EXE = $(FOAM_APPBIN)/cavitatingGasReleaseFoam
